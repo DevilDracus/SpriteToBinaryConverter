@@ -22,7 +22,7 @@ namespace SpriteConverter
             if (args.Length == 0)
             {
                 Console.WriteLine("Usage: dotnet run <path_to_16x16_image_file>");
-                Console.WriteLine("Example: dotnet run ./link.png");
+                Console.WriteLine("Example: dotnet run ./pixil-frame-0.png");
                 Console.ReadLine();
                 return;
             }
