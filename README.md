@@ -1,10 +1,14 @@
 # SpriteToBinaryConverter
 
-## Prerequisites
+---
+
+## 1. Prerequisites
 
 - Only works with **16x16** sprites.
 
-## Usage
+---
+
+## 2. Usage
 
 - `dotnet run` *<path_to_16x16_image_file>*
 
@@ -13,3 +17,5 @@
 ```cmd
 dotnet run ./pixil-frame-0.png
 ```
+
+---
